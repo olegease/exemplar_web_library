@@ -1,7 +1,21 @@
-# `TEMPLATE`
-> Project Legend
+# `EXEMPLAR_WEB_LIBRARY`
+> NodeJS Module Library Example
 
-Project Overview
+## Usage
+
+### Install
+
+```sh
+npm install @nethreed/exemplar_web_library
+```
+
+### Import
+
+```mjs
+import exemplar_web_library_todo from '@nethreed/exemplar_web_library';
+
+console.log( exemplar_web_library_todo( )); // 3
+```
 
 ## [CONTRIBUTING](./CONTRIBUTING.md)
 > Project Contribution Rules

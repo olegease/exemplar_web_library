@@ -1,0 +1,23 @@
+{
+    "name": "@nethreed/exemplar_web_library",
+    "version": "0.0.1",
+    "license": "Apache-2.0",
+    "exports": "./source/exemplar_web_library.mjs",
+    "type": "module",
+    "files": [
+        "changes",
+        "licenses",
+        "source",
+        "NOTICE"
+    ],
+    "engines": {
+        "node": ">=18"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/olegease/exemplar_web_library.git"
+    }
+}
