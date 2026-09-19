@@ -8,4 +8,5 @@ Commands
         usage   : make [command]                                ;
         login   : into npm registry                             ;
         check   : npm pack without writing any files            ;
+        publish : on npm registry                               ;
 ================================================================
